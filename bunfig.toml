@@ -1,0 +1,3 @@
+[install]
+# Versões exatas no package.json: instalação reproduzível.
+exact = true
